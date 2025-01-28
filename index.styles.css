@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap');
+
 body {
     background-color: #70a4f4 ;
+    font-family: 'Lexend', sans-serif ;
+    
 }
 
 footer-test {
@@ -10,6 +14,7 @@ footer-test {
 
 footer-copyright {
     text-align: center ;
+    font-weight: bold ;
 }
 
 .footer-container-test {
