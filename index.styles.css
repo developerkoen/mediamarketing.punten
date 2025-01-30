@@ -1,15 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap');
 
 body {
     background-color: #70a4f4 ;
-    font-family: 'Lexend', sans-serif ;
-    
+    font-family: 'Calibri', sans-serif ;
 }
 
 footer-test {
-    color:red ;
-    background-color: darkblue ; 
+    color: white ;
+    background-color: red ; 
     text-align: center ;
+    font-size:xx-large ;
 }
 
 footer-copyright {
